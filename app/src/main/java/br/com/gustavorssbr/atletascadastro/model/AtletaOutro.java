@@ -1,7 +1,4 @@
-/*
- *@author:Gustavo Rodrigues Santos Silva
- * RA: 1110481922011
- */
+
 package br.com.gustavorssbr.atletascadastro.model;
 
 public class AtletaOutro extends Atleta {
