@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atletas Menu</string>
+    <string name="juvenil">Atleta Juvenil</string>
+    <string name="senior">Atleta Sênior</string>
+    <string name="outros">Outro Atleta</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="data_nasc">Data Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="qt_anos">Qtd. De Anos Que Pratica</string>
+    <string name="problema_cardiaco">Tem problema cardiaco?</string>
+    <string name="academia">Academia</string>
+    <string name="records">recorde em segundos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
